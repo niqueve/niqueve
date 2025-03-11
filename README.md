@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm a software engineering student.
+
+Currently following the DIO full stack track with focus on Python and Django.
 
 <!--
 **niqueve/niqueve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> Estatísticas GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niqueve&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niqueve)](https://github.com/anuraghazra/github-readme-stats)
+
